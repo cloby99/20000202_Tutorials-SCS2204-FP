@@ -1,7 +1,7 @@
 object Question_01 extends App{
 
   var radius:Int = 5
-  var Pi = 3.14
+  val Pi = 3.14
 
   def areaOfDisk(radius:Int, Pi:Double):Double = Pi*radius*radius
 

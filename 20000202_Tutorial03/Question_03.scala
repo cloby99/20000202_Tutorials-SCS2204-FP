@@ -1,7 +1,7 @@
 object Question_03 extends App{
 
   var radius:Int = 5
-  var Pi = 3.14
+  val Pi = 3.14
 
   def sphereVolume(radius:Int, Pi:Double):Double = 4*(Pi*radius*radius*radius)/3
 
