@@ -19,5 +19,6 @@ object Question01 extends App {
   printf("Encrypted message is: %s\n",encryptedMessage)
   printf("Decrypted message is: %s\n",decryptedMessage)
 
-
 }
+
+
